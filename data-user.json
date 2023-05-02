@@ -1,0 +1,30 @@
+[
+    {
+     "createdAt": "2023-05-01T20:00:35.246Z",
+     "judul": "judul 1",
+     "author": "author 1",
+     "desc": "desc 1",
+     "id": "1"
+    },
+    {
+     "createdAt": "2023-05-01T14:38:34.244Z",
+     "judul": "judul 2",
+     "author": "author 2",
+     "desc": "desc 2",
+     "id": "2"
+    },
+    {
+     "createdAt": "2023-05-02T02:06:22.674Z",
+     "judul": "judul 3",
+     "author": "author 3",
+     "desc": "desc 3",
+     "id": "3"
+    },
+    {
+     "createdAt": "2023-05-01T11:21:05.551Z",
+     "judul": "judul 4",
+     "author": "author 4",
+     "desc": "desc 4",
+     "id": "4"
+    }
+]
